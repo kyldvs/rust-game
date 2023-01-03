@@ -1,0 +1,10 @@
+[package]
+name = "rust-game"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kyle <git@kyle.dev>"]
+description = "CLI to setup my dotfiles."
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
